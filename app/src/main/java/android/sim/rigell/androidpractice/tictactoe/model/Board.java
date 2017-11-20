@@ -1,7 +1,7 @@
-package android.sim.rigell.androidpractice.mvp.model;
+package android.sim.rigell.androidpractice.tictactoe.model;
 
-import static android.sim.rigell.androidpractice.mvp.model.Player.O;
-import static android.sim.rigell.androidpractice.mvp.model.Player.X;
+import static android.sim.rigell.androidpractice.tictactoe.model.Player.O;
+import static android.sim.rigell.androidpractice.tictactoe.model.Player.X;
 
 /**
  * Created by simks88 on 2017. 10. 29..
@@ -21,7 +21,7 @@ public class Board {
     public Board() {
         restart();
     }
-    
+
     public void restart() {
         clearCells();
         winner = null;

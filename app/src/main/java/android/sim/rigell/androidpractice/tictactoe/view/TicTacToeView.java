@@ -1,4 +1,4 @@
-package android.sim.rigell.androidpractice.mvp.view;
+package android.sim.rigell.androidpractice.tictactoe.view;
 
 /**
  * Created by simks88 on 2017. 10. 29..

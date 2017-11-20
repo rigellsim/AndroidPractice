@@ -1,8 +1,8 @@
-package android.sim.rigell.androidpractice.mvp.presenter;
+package android.sim.rigell.androidpractice.tictactoe.presenter;
 
-import android.sim.rigell.androidpractice.mvp.model.Board;
-import android.sim.rigell.androidpractice.mvp.model.Player;
-import android.sim.rigell.androidpractice.mvp.view.TicTacToeView;
+import android.sim.rigell.androidpractice.tictactoe.model.Board;
+import android.sim.rigell.androidpractice.tictactoe.model.Player;
+import android.sim.rigell.androidpractice.tictactoe.view.TicTacToeView;
 
 /**
  * Created by simks88 on 2017. 10. 29..

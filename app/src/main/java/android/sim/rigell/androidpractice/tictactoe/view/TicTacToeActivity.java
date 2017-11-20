@@ -1,6 +1,6 @@
-package android.sim.rigell.androidpractice.mvp.view;
+package android.sim.rigell.androidpractice.tictactoe.view;
 
-import android.sim.rigell.androidpractice.mvp.presenter.TicTacToePresenter;
+import android.sim.rigell.androidpractice.tictactoe.presenter.TicTacToePresenter;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.sim.rigell.androidpractice.R;
